@@ -1,9 +1,9 @@
 A REST API that allows clients to manage a pool of registered cars
 under the SmartCar API and temporarily license them to accounts. 
+  <img src= "https://github.com/ahmadhuzaifa/cargo-backend/blob/master/image/logo.png" width="200" height="200">
 
 Most modern cars are compatible with the SmartCar API, and CarGO allows the temporarily licensing of such cars so the renter can use them for a specific amount of time. This serves as the framework for any application that relies on the sharing of a single vehicle with multiple users.
 ## Screenshots
 
-  <img src= "https://github.com/ahmadhuzaifa/cargo-backend/blob/master/image/logo.png" width="450" height="800">
  
 
